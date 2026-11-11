@@ -68,6 +68,8 @@ ecommerce-ai-support/
 1. Clone the repository
 git clone https://github.com/imaduddin005/ecommerce-ai-support.git
 cd ecommerce-ai-support
+
+
 2. Create and activate virtual environment
 python -m venv .venv
 .venv\Scripts\activate
